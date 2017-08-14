@@ -1,0 +1,33 @@
+{
+
+  "id" : "5",
+  "birthday" : 401280850089,
+  "firstname" : "Piotr",
+  "lastname" : "Nowak",
+  "occupation" : "Programmer",
+  "gender" : "male",
+  "city" : {
+    "countryName" : "Poland",
+    "cityName" : "Krakow",
+    "stateName" : "Malopolska",
+    "coords" : {
+      "lon" : -0.12574,
+      "lat" : 51.50853
+    }
+  },
+  "work" : "Company",
+  "friends" : [ "68", "38", "122", "115", "127", "128", "91", "82", "31", "53", "32", "65", "76", "87" ],
+  "school" : "University",
+  "location" : "Krakow",
+  "relationship" : "Married",
+  "posts" : [ {
+    "id" : "1",
+    "message" : "Hey Kate. What are you doing? How about going to cinema?"
+  }, {
+    "id" : "2",
+    "message" : "Nice picture, fantastic place! I would like to meet with you "
+  }, {
+    "id" : "3",
+    "message" : "Fantastic idea! I will be late. I apologize for this but I'm very busy"
+  } ]
+}
