@@ -132,5 +132,8 @@ public class Facebook implements Comparable<Facebook> {
 
     }
 
-
+    @Override
+    public String toString() {
+        return this.firstname + " "+this.lastname;
+    }
 }
